@@ -12,7 +12,7 @@ const HeroVideoSection = () => {
         className="absolute z-10 w-auto min-w-full min-h-full max-w-none"
       >
         <source
-          src="https://console.cloudinary.com/app/c-920ca489d19946d5f3e484b0e394b6/assets/media_library/homepage"
+          src="https://res.cloudinary.com/doidxxag9/video/upload/v1767898433/hero-video_cyfo0r.mp4"
           type="video/mp4"
         />
         Your browser does not support the video tag.
