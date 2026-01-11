@@ -9,7 +9,7 @@ const testimonials = [
     title: "They came through",
     img: c2,
     desc: "CrownBridge delivered clarity and results within weeks. They were a trusted partner during a critical growth phase. They're a true partner...",
-    client: "Charles Stoneson",
+    client: "Carol Stoneson",
     location: "Derby, UK",
   },
   {
@@ -23,8 +23,8 @@ const testimonials = [
     title: "They are the best at what they do",
     img: c3,
     desc: "I run a cafe that caters to weddings. I've recommended them...ever since and THEY HAVEN'T FALLEN SHORT of expectations; not even once!",
-    client: "John Albert",
-    location: "Cape Town, South Africa",
+    client: "Elsa A. Andersson",
+    location: "Malmo, Sweden",
   },
 ];
 
@@ -38,7 +38,7 @@ export default function Testimonial() {
       <div
         className="max-w-6xl mx-auto"
         data-aos="fade-up"
-        data-aos-delay="400"
+        data-aos-delay="200"
       >
         <h2 className="text-3xl font-bold text-center text-blue-900 dark:text-white">
           What our esteemed clients say
@@ -50,7 +50,7 @@ export default function Testimonial() {
               key={index}
               className="flex flex-col gap-2 px-4"
               data-aos="fade-up"
-              data-aos-delay="400"
+              data-aos-delay="200"
             >
               <h4 className="text-xl font-bold my-4 text-blue-900 dark:text-white">
                 &quot;{testimonial.title}&quot;

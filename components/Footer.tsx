@@ -22,7 +22,7 @@ const Footer = () => {
             <li>
               <strong>CrownBridge Consulting Ltd </strong>
             </li>
-            <li>14 Southwark district ,</li>
+            <li>14 Southwark district,</li>
             <li>Thames, London.</li>
             <li>Phone: +44 20 7946 0912</li>
           </ul>

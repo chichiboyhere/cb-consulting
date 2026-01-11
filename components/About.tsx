@@ -68,7 +68,7 @@ export default function About() {
               height={300}
               className="rounded-full mx-auto mb-2"
               data-aos="fade-up"
-              data-aos-delay="400"
+              data-aos-delay="200"
             />
             <h3 className="font-bold">{member.name}</h3>
             <p className="text-sm">{member.role}</p>
