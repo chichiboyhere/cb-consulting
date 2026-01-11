@@ -3,7 +3,7 @@ components/Contact.tsx
 ========================= */
 export default function Contact() {
   return (
-    <section id="contact" className="bg-slate-100 py-20 px-4">
+    <section id="contact" className="bg-slate-100 py-20 px-4 text-black">
       <div className="max-w-xl mx-auto" data-aos="fade-up">
         <h2 className="text-3xl font-bold mb-6">Contact Us</h2>
         <form className="space-y-4">
