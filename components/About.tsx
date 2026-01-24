@@ -7,33 +7,40 @@ import Image from "next/image";
 
 const team = [
   {
-    name: "Nicholas Harper",
-    role: "Managing Director / CEO",
-    bio: "12+ years advising FTSE 250 firms on strategy and transformation. He is a Certified Management Accountant. A passionate leader and expert in corporate strategy, M&A, and leadership.",
-    image: "/managers/nicholas-harper.jpg",
+    name: "Andrew Vince Sanger ",
+    role: "Managing Director, Business Consultant & Overseas Coordinator",
+    bio: "With 10 years experience in supporting international business operations, providing strategic advisory services, and facilitating cross-border collaborations for clients engaged in infrastructure and trade-related projects.",
+    image: "/managers/andrewSanger.jpg",
     skills: "Corporate Strategy, M&A, Leadership",
   },
   {
     name: "Amelia Wright",
     role: "Director of Operations",
     bio: "Operational excellence specialist with a background in logistics. She's adept at streamlining processes and ensuring efficient resource allocation. She's a certified practitioner in change management and performance coaching. A passionate leader and expert in process optimisation and change management.",
-    image: "/managers/amelia-wright.jpg",
+    image: "/managers/ameliaWright.jpg",
     skills: "Process Optimisation, Change Management",
   },
   {
-    name: "Daniel Brooks",
-    role: "Head of Finance Advisory",
-    bio: "Former Big Four consultant with deep financial modelling expertise. He's a certified practitioner in financial modelling, risk, and compliance. A passionate leader and expert in financial modelling, risk, and compliance. With over 10 years of experience in the financial services industry, he's a seasoned expert in financial modelling, risk, and compliance.",
-    image: "/managers/daniel-brooks.jpg",
+    name: "Abraham Mine Bollinger",
+    role: "Manager, Overseas Coordination",
+    bio: "Business Consultant with over 12 years of experience. Specializes in facilitating international business operations, structuring cross-border partnerships, and driving high-impact business development initiatives that deliver sustainable growth and measurable value for organizations.",
+    image: "/managers/abrahamBollinger.jpg",
     skills: "Financial Modelling, Risk, Compliance",
   },
   {
     name: "Priya Shah",
     role: "Client Engagement Lead",
     bio: "Ensures lasting partnerships and successful project delivery. She's a certified practitioner in stakeholder management and delivery. A passionate leader and expert in stakeholder management and delivery. With over 10 years of experience in the consulting industry, she's a seasoned expert in stakeholder management and delivery.",
-    image: "/managers/priya-shah.jpg",
+    image: "/managers/priyaShah.jpg",
     skills: "Stakeholder Management, Delivery",
   },
+  // {
+  //   name: "Benjamin Dim Farina",
+  //   role: "",
+  //   bio: "",
+  //   image: "",
+  //   skills: ""
+  // }
 ];
 
 export default function About() {

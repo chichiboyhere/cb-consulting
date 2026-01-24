@@ -22,8 +22,8 @@ const Footer = () => {
             <li>
               <strong>CrownBridge Consulting Ltd </strong>
             </li>
-            <li>14 Southwark district,</li>
-            <li>Thames, London.</li>
+            <li>4 Albemarle Street, 4th floor</li>
+            <li>London W1S 4GA United Kingdom</li>
             <li>Phone: +44 20 7946 0912</li>
           </ul>
         </div>
@@ -55,7 +55,7 @@ const Footer = () => {
           <h4 className="font-bold mb-2">Contact</h4>
           <p className="text-sm mb-2">Subscribe to our newsletter</p>
           <form
-            action="https://formspree.io/f/xyzjvjgy"
+            action="https://formspree.io/f/mzdeweao"
             method="POST"
             className="flex items-center mb-4"
           >
@@ -74,7 +74,7 @@ const Footer = () => {
             </button>
           </form>
           <p className="text-sm">Phone: +44 20 7946 0912</p>
-          <p className="text-sm">Email: info@crownbridge.com</p>
+          <p className="text-sm">Email: info@crownbridgeconsult.com</p>
         </div>
       </div>
 
@@ -82,7 +82,7 @@ const Footer = () => {
 
       <div className=" grid grid-cols-1 md:flex align-center justify-between gap-4">
         <p className="text-center text-[15px] flex-2">
-          &copy; 2015 - {new Date().getFullYear()}CrownBridge Consulting Ltd ·
+          &copy; 2015 - {new Date().getFullYear()} Crown Bridge Consulting Ltd ·
           London, UK| All rights reserved.
         </p>
 

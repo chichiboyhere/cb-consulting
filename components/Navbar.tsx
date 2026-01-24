@@ -10,6 +10,10 @@ const links = [
   { label: "Services", href: "#services" },
   { label: "Testimonials", href: "#testimonials" },
   { label: "Contact", href: "#contact" },
+  {
+    label: "Mail",
+    href: "https://accounts.zoho.com/signin?servicename=VirtualOffice&signupurl=https://www.zoho.com/mail/zohomail-pricing.html&serviceurl=https://mail.zoho.com",
+  },
 ];
 
 export default function Navbar() {
