@@ -21,8 +21,8 @@ const team = [
     skills: "Process Optimisation, Change Management",
   },
   {
-    name: "Abraham Mine Bollinger",
-    role: "Manager, Overseas Coordination",
+    name: "Abraham Mickey Bollinger",
+    role: "Manager, Overseas Coordinator",
     bio: "Business Consultant with over 12 years of experience. Specializes in facilitating international business operations, structuring cross-border partnerships, and driving high-impact business development initiatives that deliver sustainable growth and measurable value for organizations.",
     image: "/managers/abrahamBollinger.jpg",
     skills: "Financial Modelling, Risk, Compliance",
