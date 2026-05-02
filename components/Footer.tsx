@@ -24,7 +24,8 @@ const Footer = () => {
             </li>
             <li>4 Albemarle Street, 4th floor</li>
             <li>London W1S 4GA United Kingdom</li>
-            <li>Phone: +44 20 7946 0912</li>
+            <li>Phone: +44-204-577-1976</li>
+            <li>Fax: +44-203-936-3396</li>
           </ul>
         </div>
 
@@ -73,7 +74,7 @@ const Footer = () => {
               Subscribe
             </button>
           </form>
-          <p className="text-sm">Phone: +44 20 7946 0912</p>
+          <p className="text-sm">Phone: +44-204-577-1976</p>
           <p className="text-sm">Email: info@crownbridgeconsult.com</p>
         </div>
       </div>

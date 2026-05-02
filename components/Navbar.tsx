@@ -39,11 +39,11 @@ export default function Navbar() {
               {l.label}
             </a>
           ))}
-          <span className="font-bold text-yellow-400">+44 20 7946 0912</span>
+          <span className="font-bold text-yellow-400">+44-204-577-1976</span>
         </div>
 
         <div className="md:hidden flex items-center gap-3">
-          {/* <span className="font-bold text-yellow-400">+44 20 7946 0912</span> */}
+          {/* <span className="font-bold text-yellow-400">+44-204-577-1976</span> */}
           <button onClick={() => setOpen(!open)} className="text-2xl">
             ☰
           </button>
@@ -62,7 +62,7 @@ export default function Navbar() {
               {l.label}
             </a>
           ))}
-          <span className="font-bold text-yellow-400">+44 20 7946 0912</span>
+          <span className="font-bold text-yellow-400">+44-204-577-1976</span>
         </nav>
       )}
     </header>
